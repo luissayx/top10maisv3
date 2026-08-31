@@ -1,0 +1,96 @@
+  body {
+      text-align: center;
+      background-color: rgb(255, 231, 244);
+      color: rgb(0, 34, 109);
+  }
+  body:hover{
+    background-color: rgb(99, 50, 73);
+    color: rgb(204, 255, 235);
+  }
+
+  a{
+    color: rgb(255, 177, 222);
+  }
+   a:hover{
+    color: aqua;
+  }
+
+  #img10 {
+      width: 60%;
+      height: 70%;
+      border-radius:20px;
+  }
+  
+  #img9 {
+      width: 60%;
+      height: 70%;
+      border-radius:20px;
+  }
+   
+  #img8 {
+      width: 60%;
+      height: 70%;
+      border-radius:20px;
+  }
+  
+  #img7 {
+      width: 60%;
+      height: 70%;
+      border-radius:20px;
+  }
+  
+  #img6 {
+      width: 60%;
+      height: 70%;
+      border-radius:20px;
+  }
+  
+  
+  #img5 {
+      width: 60%;
+      height: 70%;
+      border-radius:20px;
+  }
+
+  #img4 {
+      width: 60%;
+      height: 70%;
+      border-radius:20px;
+  }
+
+  #img3 {
+      width: 60%;
+      height: 70%;
+      border-radius:20px;
+  }
+
+   #img2 {
+      width: 60%;
+      height: 70%;
+      border-radius:20px;
+    }  
+
+   #img1 {
+      width: 60%;
+      height: 70%;
+      border-radius:20px;
+  }
+
+
+
+     h1 {
+        color:rgb(192, 50, 104)
+     }
+     h1:hover {
+        color:rgb(225, 255, 208)
+     }
+     img{
+        opacity: 0.75;
+       
+        
+     }
+     img:hover{
+        opacity: 1;
+        border: 7px rgb(160, 233, 255) solid; 
+     }
+    
